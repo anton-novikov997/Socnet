@@ -2,6 +2,12 @@
     grid-area: nav;
     background-color: darkcyan;
 }
-.item{
+/*.item a{*/
+/*    color: white;*/
+/*}*/
+.active{
+    color: darkblue;
+}
+.nonactive{
     color: white;
 }
